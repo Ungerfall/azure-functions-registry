@@ -21,7 +21,7 @@
     },
     "resourceName": {
       "type": "string",
-      "defaultValue": "workshop-serverless-fapp",
+      "defaultValue": "workshop-fapp-21233",
       "metadata": {
         "description": "Name of the main resource to be created by this template."
       }
